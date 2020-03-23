@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import sleep
-from pass import uname,pw
+from pas import uname,pw
 
 
 class InstaBot:
