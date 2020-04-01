@@ -33,7 +33,7 @@ python Main.py
 ```
 
 ## Owner:
-- [Arbazkhan4712](https://github.com/Arbazkhan4712/)
+- [Arbazkhan4712](http://arbaazkhan.ml/)
 
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
